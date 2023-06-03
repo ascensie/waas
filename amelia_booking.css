@@ -7,24 +7,4 @@
     position: relative;
 }
 
-.am-logo img.logo-big::before {
-    visibility: visible;
-    content: url('https://ascensiecloud.b-cdn.net/Branding/Logo%20nieuw/1x/Asensie_online_v4.png');
-    position: absolute;
-    left: 0;
-    top: 0;
-}
-
-.am-logo img.logo-small {
-    visibility: hidden;
-    position: relative;
-}
-
-.am-logo img.logo-small::before {
-    visibility: visible;
-    content: url('https://ascensiecloud.b-cdn.net/Branding/Logo%20nieuw/1x/Asensie_online_v4.png');
-    position: absolute;
-    left: 0;
-    top: 0;
-}
 
