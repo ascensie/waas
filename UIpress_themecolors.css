@@ -38,6 +38,9 @@
     background-color: #e0f2f5 !important;
 }
 
+components-modal__frame components-guide edit-post-welcome-guide {
+    display: none;}
+
 :root {
     --uip-border-color: #e5e5e5;
     --uip-color-primary: #05201c;
