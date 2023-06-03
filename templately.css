@@ -1,1 +1,11 @@
+.templately-screen-templately .templately-header {
+    left: 0px;
+    position: fixed;
+    top: 0px;
+    width: calc(100% - 160px);
+}
 
+.templately-screen-templately .templately-header {
+    left: 36px;
+    width: calc(100% - -161px);
+}
