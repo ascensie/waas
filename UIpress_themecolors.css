@@ -6,6 +6,9 @@
     color: #fff;
 }
 
+a {
+    color: #02201c !important;}
+
 :root {
     --uip-border-color: #e5e5e5;
     --uip-color-primary: #05201c;
