@@ -9,3 +9,24 @@
 .ff_form_wrap_area h2:first-child {
   display: none;
 }
+
+.ff_admin_menu_wrapper .ff_admin_menu_sidebar, .ff_admin_menu_wrapper .ff_settings_sidebar, .ff_settings_wrapper .ff_admin_menu_sidebar, .ff_settings_wrapper .ff_settings_sidebar {
+    background: #e0f2f5;
+    display: table-cell;
+    padding: 0;
+    vertical-align: top;
+    width: 220px;
+}
+
+.ff_admin_menu_wrapper .ff_admin_menu_sidebar ul.ff_admin_menu_list li.active a, .ff_admin_menu_wrapper .ff_admin_menu_sidebar ul.ff_settings_list li.active a, .ff_admin_menu_wrapper .ff_settings_sidebar ul.ff_admin_menu_list li.active a, .ff_admin_menu_wrapper .ff_settings_sidebar ul.ff_settings_list li.active a, .ff_settings_wrapper .ff_admin_menu_sidebar ul.ff_admin_menu_list li.active a, .ff_settings_wrapper .ff_admin_menu_sidebar ul.ff_settings_list li.active a, .ff_settings_wrapper .ff_settings_sidebar ul.ff_admin_menu_list li.active a, .ff_settings_wrapper .ff_settings_sidebar ul.ff_settings_list li.active a {
+    color: #043f36;
+}
+.ff_settings_wrapper .ff_settings_sidebar ul.ff_settings_list li.active {
+    background-color: #A6CED5;
+}
+.ff_settings_wrapper .ff_settings_sidebar ul.ff_settings_list li a {
+    color: #043f36;
+    display: block;
+    padding: 20px 15px;
+    text-decoration: none;
+}
