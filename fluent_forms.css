@@ -32,3 +32,5 @@
 }
 
 .error error_notice_ff_fluentform_pro_license {display: none !important;}
+
+.ff_add_on_navigation,.modules_header {display: none !important;}
