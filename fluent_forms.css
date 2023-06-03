@@ -37,3 +37,7 @@
 
 
 .ff_add_on_navigation,.modules_header {display: none !important;}
+
+a.ninja-tab[href="https://waas.ascensie.cloud/wp-admin/admin.php?page=fluent_forms_docs"] {
+  display: none;
+}
