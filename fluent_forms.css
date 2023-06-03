@@ -41,3 +41,17 @@
 a.ninja-tab[href="https://waas.ascensie.cloud/wp-admin/admin.php?page=fluent_forms_docs"] {
   display: none;
 }
+
+.ff_form_main_nav .ninja-tab.ninja-tab-active {
+    border-bottom: 2px solid #05201c;
+    color: #05201c;
+    font-weight: 700;
+    opacity: 1;
+}
+
+.el-radio-button__orig-radio:checked+.el-radio-button__inner {
+    background-color: #05201c;
+    border-color: #05201c;
+    box-shadow: -1px 0 0 0 #05201c;
+    color: #fff;
+}
