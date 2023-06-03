@@ -1,4 +1,6 @@
-.am-amelia-banner,.el-col.el-col-18 {display: none !important;}
+.am-amelia-banner {display: none !important;}
+
+.el-col.el-col-18 {display: none !important;}
 
 .am-logo img.logo-big {
     visibility: hidden;
