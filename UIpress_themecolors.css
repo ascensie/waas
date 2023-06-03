@@ -1,8 +1,8 @@
 .plugin-name {display: none;}
 
 .el-button--primary {
-    background-color: #05201c;
-    border-color: #05201c;
+    background-color: #05201c !important;
+    border-color: #05201c !important;
     color: #fff;
 }
 
