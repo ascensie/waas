@@ -15,11 +15,8 @@
     color: #3c434a
 }
 .wrap, .page-title-action {
-    border: 1px solid #05201c !important;
     color: #05201c !important;
 }
-
-
 .wp-core-ui .button-primary {
     background: #05201c !important;
     border-color: #05201c !important;
