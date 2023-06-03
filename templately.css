@@ -9,3 +9,5 @@
     left: 36px;
     width: calc(100% - -161px);
 }
+
+.templately-logo {display: none !important;}
