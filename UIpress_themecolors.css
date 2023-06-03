@@ -16,8 +16,8 @@
 }
 
 .wp-core-ui .button-primary {
-    background: #05201c;
-    border-color: #05201c;
+    background: #05201c !important;
+    border-color: #05201c !important;
     color: #fff;
     text-decoration: none;
     text-shadow: none;
