@@ -1,4 +1,4 @@
-.am-amelia-banner {display: none !important;}
+.am-amelia-banner,.am-page-header,.am-section {display: none !important;}
 
 .el-col.el-col-18 {display: none !important;}
 
