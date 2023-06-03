@@ -15,6 +15,14 @@
     color: #3c434a
 }
 
+.wp-core-ui .button-primary {
+    background: #05201c;
+    border-color: #05201c;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: none;
+}
+
 .wp-ui-primary {
     color: #fff;
     background-color: #043f36
