@@ -1,6 +1,10 @@
 .plugin-name {display: none;}
 
-
+.el-button--primary {
+    background-color: #05201c;
+    border-color: #05201c;
+    color: #fff;
+}
 
 :root {
     --uip-border-color: #e5e5e5;
