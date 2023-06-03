@@ -1,1 +1,11 @@
+.plugin-name {display: none;}
 
+.el-button--primary {
+    background-color: #05201c !important;
+    border-color: #05201c !important;
+    color: #fff;
+}
+
+.ff_form_wrap_area h2:first-child {
+  display: none;
+}
