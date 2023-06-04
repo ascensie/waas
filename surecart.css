@@ -1,5 +1,7 @@
 .css-wa3qun {display: none;}
 
+.css-smh00s {top: 0px;}
+
 :root {
     --sc-color-brand-primary: #02201c;
     --sc-color-brand-secondary: #045e51;
@@ -10,3 +12,5 @@
     --sc-color-brand-stroke: #E7ECEE;
     --sc-color-brand-subheading: #9CA7AB;
 }
+
+.breadcrumb-item__label breadcrumb-item__label--link {display: none;}
