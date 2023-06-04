@@ -14,7 +14,7 @@
 }
 
 img[src="https://waas.ascensie.cloud/wp-content/plugins/surecart/images/logo.svg"] {
-    display: none;
+    display: none !important;
 }
 
 
