@@ -13,4 +13,7 @@
     --sc-color-brand-subheading: #9CA7AB;
 }
 
-.breadcrumb-item__label breadcrumb-item__label--link {display: none;}
+.breadcrumb-item__label.breadcrumb-item__label--link {
+  display: none;
+}
+
