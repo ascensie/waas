@@ -58,11 +58,11 @@ components-modal__frame components-guide edit-post-welcome-guide {
     --uip-color-red: #000000;
     --uip-color-red-darker: #000000;
     --uip-color-red-lighter: #000000;
-    --uip-color-base-0: #fbfbfb;
+    --uip-color-base-0: #ffffff;
     --uip-color-base-1: #fbfbfb;
-    --uip-color-base-2: #fbfbfb;
-    --uip-text-color-base: #02201c;
-    --uip-text-color-emphasis: #000000;
-    --uip-text-color-muted: #000000;
-    --uip-text-color-inverse: #000000;
+    --uip-color-base-2: #e7e7e9;
+    --uip-text-color-base: #444455;
+    --uip-text-color-emphasis: #000011;
+    --uip-text-color-muted: #757588;
+    --uip-text-color-inverse: #ffffff;
 }
