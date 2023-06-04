@@ -1,1 +1,12 @@
+.css-wa3qun {display: none;}
 
+:root {
+    --sc-color-brand-primary: #02201c;
+    --sc-color-brand-secondary: #045e51;
+    --sc-color-brand-heading: #02201c;
+    --sc-color-brand-body: #02201c;
+    --sc-color-brand-main-background: #fbfbfb;
+    --sc-color-brand-content-background: #FFFFFF;
+    --sc-color-brand-stroke: #E7ECEE;
+    --sc-color-brand-subheading: #9CA7AB;
+}
