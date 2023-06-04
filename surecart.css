@@ -13,7 +13,8 @@
     --sc-color-brand-subheading: #9CA7AB;
 }
 
-.breadcrumb-item__label.breadcrumb-item__label--link {
-  display: none;
+img[src="https://waas.ascensie.cloud/wp-content/plugins/surecart/images/logo.svg"] {
+    display: none;
 }
+
 
