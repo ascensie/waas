@@ -1,1 +1,7 @@
-
+.fluentcrm_main_menu_items .fluentcrm_menu_logo_holder a {
+    visibility: hidden;
+}
+.fluentcrm_main_menu_items ul.fluentcrm_menu li.fluentcrm_active {
+    background: #f7fafc;
+    border-bottom: 2px solid #05201c !important;
+}
